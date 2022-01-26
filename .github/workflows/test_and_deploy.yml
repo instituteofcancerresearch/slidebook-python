@@ -17,7 +17,7 @@ jobs:
           pip install .[dev]
       - name: Lint
         run: |
-          black ./ --check
+          black ./ --check -l 79
           flake8
           mypy sld
   test:

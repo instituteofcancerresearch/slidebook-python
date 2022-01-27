@@ -1,3 +1,3 @@
 from sld.slidebook import SlideBook
 
-__version__ = "0.0.2-rc0"
+__version__ = "0.0.2"

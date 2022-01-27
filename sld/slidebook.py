@@ -1,5 +1,5 @@
 from pathlib import Path
-from typing import Optional, Union
+from typing import Union, Literal, Generator
 import numpy as np
 
 from sld.yaml import open_yaml
@@ -7,7 +7,11 @@ from sld.yaml import open_yaml
 
 class HistogramSummary:
     def __init__(
-        self, histogram_summary_filename: Path, mmap_mode: Optional[str] = "r"
+        self,
+        histogram_summary_filename: Path,
+        mmap_mode: Union[
+            None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
+        ] = "r",
     ):
         self._histogram_summary_filename = histogram_summary_filename
         self.histogram_summary = np.load(
@@ -35,7 +39,13 @@ class ImageMetadata:
 
 
 class ImageDirectory:
-    def __init__(self, image_directory: Path, mmap_mode: Optional[str] = "r"):
+    def __init__(
+        self,
+        image_directory: Path,
+        mmap_mode: Union[
+            None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
+        ] = "r",
+    ):
         self._directory = image_directory
         self.name = self._directory.stem
         self.metadata = ImageMetadata(self._directory)
@@ -64,7 +74,12 @@ class ImageDirectory:
         }
 
     @staticmethod
-    def load_channel(filenames: list, mmap_mode: Optional[str] = "r") -> list:
+    def load_channel(
+        filenames: Generator[Path, None, None],
+        mmap_mode: Union[
+            None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
+        ] = "r",
+    ) -> list:
         return [np.load(file, mmap_mode=mmap_mode) for file in filenames]
 
 
@@ -79,10 +94,14 @@ class FileMetadata:
 
 class SlideBook:
     def __init__(
-        self, filename: Union[str, Path], mmap_mode: Optional[str] = "r"
+        self,
+        filename: Union[str, Path],
+        mmap_mode: Union[
+            None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
+        ] = "r",
     ):
         self._filename = Path(filename)
-        self._data_directory = filename.with_suffix(".dir")
+        self._data_directory = self._filename.with_suffix(".dir")
 
         self.images = [
             ImageDirectory(image_dir, mmap_mode=mmap_mode)

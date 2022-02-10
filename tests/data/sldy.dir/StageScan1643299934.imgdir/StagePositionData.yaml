@@ -1,0 +1,18 @@
+---
+StructName: theStagePositions
+StructDefElementOffset: 0
+StructDefSize: 3
+StructDefMemberName: mX
+StructDefMemberType: float
+StructDefMemberOffset: 8
+StructDefMemberName: mY
+StructDefMemberType: float
+StructDefMemberOffset: 12
+StructDefMemberName: mZ
+StructDefMemberType: float
+StructDefMemberOffset: 16
+StructArraySize: 1
+StructArrayValues: [
+-3837.6001,5970.7002,0.001
+ ]
+...

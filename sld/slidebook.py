@@ -86,10 +86,10 @@ class ImageDirectory:
 class FileMetadata:
     def __init__(self, filename: Path, data_directory: Path):
         self.sldy_contents = open_yaml(filename)
-        self.hardware_properties = (
+        self._hardware_properties = (
             data_directory / "SlideBookHardwareProperties.dat"
         )
-        self.slidebook_preferences = data_directory / "SlideBookPrefs.dat"
+        self._slidebook_preferences = data_directory / "SlideBookPrefs.dat"
 
 
 class SlideBook:

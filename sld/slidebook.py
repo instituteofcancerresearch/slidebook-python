@@ -13,10 +13,15 @@ class HistogramSummary:
             None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
         ] = "r",
     ):
+
         self._histogram_summary_filename = histogram_summary_filename
-        self.histogram_summary = np.load(
-            self._histogram_summary_filename, mmap_mode=mmap_mode
-        )
+        try:
+            self.histogram_summary = np.load(
+                self._histogram_summary_filename,
+                mmap_mode=mmap_mode,
+            )
+        except ValueError:
+            self.histogram_summary = None
         self.channel = self._histogram_summary_filename.stem.split("_Ch")[-1]
 
 

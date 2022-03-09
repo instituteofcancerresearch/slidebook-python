@@ -1,4 +1,5 @@
 from pathlib import Path
+
 from sld.yaml import open_yaml
 
 data_dir = Path.cwd() / "tests" / "data"

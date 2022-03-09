@@ -1,4 +1,5 @@
 from pathlib import Path
+
 from sld import SlideBook
 
 data_dir = Path.cwd() / "tests" / "data"

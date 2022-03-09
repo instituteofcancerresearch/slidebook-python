@@ -18,6 +18,7 @@ jobs:
           pip install git+https://github.com/numpy/numpy-stubs
       - name: Lint
         run: |
+          isort .
           black ./ --check -l 79
           flake8
           mypy sld

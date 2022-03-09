@@ -1,5 +1,6 @@
 from pathlib import Path
-from typing import Union, Literal, Generator
+from typing import Generator, Literal, Union
+
 import numpy as np
 
 from sld.yaml import open_yaml

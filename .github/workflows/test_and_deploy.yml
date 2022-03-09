@@ -21,7 +21,7 @@ jobs:
           isort .
           black ./ --check -l 79
           flake8
-          mypy sld
+#          mypy sld
   test:
     needs: lint
     runs-on: ${{ matrix.os }}

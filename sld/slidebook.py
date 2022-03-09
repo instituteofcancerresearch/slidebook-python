@@ -4,6 +4,7 @@ from typing import Generator, Literal, Union
 import dask.array as da
 import numpy as np
 
+from sld.types import ArrayLike
 from sld.yaml import open_yaml
 
 
@@ -87,7 +88,7 @@ class ImageDirectory:
             None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
         ] = "r",
         filename_suffix: str = ".npy",
-    ) -> list:
+    ) -> ArrayLike:
         array_list = []
         for filename in filenames:
             if filename.suffix == filename_suffix:

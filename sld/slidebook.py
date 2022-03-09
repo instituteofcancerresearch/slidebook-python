@@ -88,15 +88,6 @@ class ImageDirectory:
         return [np.load(file, mmap_mode=mmap_mode) for file in filenames]
 
 
-class FileMetadata:
-    def __init__(self, filename: Path, data_directory: Path):
-        self.sldy_contents = open_yaml(filename)
-        self._hardware_properties = (
-            data_directory / "SlideBookHardwareProperties.dat"
-        )
-        self._slidebook_preferences = data_directory / "SlideBookPrefs.dat"
-
-
 class SlideBook:
     def __init__(
         self,
@@ -113,4 +104,3 @@ class SlideBook:
             for image_dir in self._data_directory.glob("*.imgdir")
         ]
         self.number_acquisitions = len(self.images)
-        self.metadata = FileMetadata(self._filename, self._data_directory)

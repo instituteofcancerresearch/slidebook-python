@@ -1,7 +1,10 @@
 from pathlib import Path
-from typing import Union, Literal, Generator
+from typing import Generator, Literal, Union
+
+import dask.array as da
 import numpy as np
 
+from sld.types import ArrayLike
 from sld.yaml import open_yaml
 
 
@@ -13,10 +16,15 @@ class HistogramSummary:
             None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
         ] = "r",
     ):
+
         self._histogram_summary_filename = histogram_summary_filename
-        self.histogram_summary = np.load(
-            self._histogram_summary_filename, mmap_mode=mmap_mode
-        )
+        try:
+            self.histogram_summary = np.load(
+                self._histogram_summary_filename,
+                mmap_mode=mmap_mode,
+            )
+        except ValueError:
+            self.histogram_summary = None
         self.channel = self._histogram_summary_filename.stem.split("_Ch")[-1]
 
 
@@ -79,17 +87,29 @@ class ImageDirectory:
         mmap_mode: Union[
             None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
         ] = "r",
-    ) -> list:
-        return [np.load(file, mmap_mode=mmap_mode) for file in filenames]
+        filename_suffix: str = ".npy",
+    ) -> ArrayLike:
+        array_list = []
+        for filename in filenames:
+            if filename.suffix == filename_suffix:
+                array_list.append(np.load(filename, mmap_mode=mmap_mode))
+
+        if mmap_mode is None:
+            array = np.array(array_list)
+        else:
+            array = da.stack(array_list, axis=0)
+
+        return array
 
 
-class FileMetadata:
-    def __init__(self, filename: Path, data_directory: Path):
-        self.sldy_contents = open_yaml(filename)
-        self.hardware_properties = (
-            data_directory / "SlideBookHardwareProperties.dat"
-        )
-        self.slidebook_preferences = data_directory / "SlideBookPrefs.dat"
+def filter_image_directories(image_directories, filename_filters):
+    new_dirs = []
+
+    for image_dir in image_directories:
+        if not any(filter in image_dir.name for filter in filename_filters):
+            new_dirs.append(image_dir)
+
+    return new_dirs
 
 
 class SlideBook:
@@ -99,13 +119,18 @@ class SlideBook:
         mmap_mode: Union[
             None, Literal["r+"], Literal["r"], Literal["w+"], Literal["c"]
         ] = "r",
+        filename_filters: list = ["MIP"],
     ):
         self._filename = Path(filename)
         self._data_directory = self._filename.with_suffix(".dir")
 
+        self._image_directories = self._data_directory.glob("*.imgdir")
+        self._image_directories = filter_image_directories(
+            self._image_directories, filename_filters
+        )
+
         self.images = [
             ImageDirectory(image_dir, mmap_mode=mmap_mode)
-            for image_dir in self._data_directory.glob("*.imgdir")
+            for image_dir in self._image_directories
         ]
         self.number_acquisitions = len(self.images)
-        self.metadata = FileMetadata(self._filename, self._data_directory)

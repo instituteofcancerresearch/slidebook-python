@@ -1,0 +1,457 @@
+---
+theAuxFloatDataTablesSize: 0
+theAuxDoubleDataTablesSize: 0
+theAuxSInt32DataTablesSize: 0
+theAuxSInt64DataTablesSize: 8
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 0
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 405A
+theAuxData: [
+4,0,848,1696,2544
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 1
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 405B
+theAuxData: [
+4,0,848,1696,2544
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 2
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 488A
+theAuxData: [
+4,106,954,1801,2649
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 3
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 488B
+theAuxData: [
+4,106,954,1802,2650
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 4
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 561A
+theAuxData: [
+4,211,1059,1907,2755
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 5
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 561B
+theAuxData: [
+4,212,1060,1908,2756
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 6
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 640A
+theAuxData: [
+4,317,1165,2013,2861
+ ]
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 7
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 20
+  mTimeBasis: 1
+  mTimeInterval: 1
+  mTimePointsTableSize: 4
+  mTimePointsWritten: 4
+  mValueType: 9
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: 640B
+theAuxData: [
+4,318,1166,2014,2862
+ ]
+theAuxSerializedDataTablesSize: 9
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 0
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;405A_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;405A_#34;_#32;ChannelIndex=_#34;0_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;0_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 1
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;405B_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;405B_#34;_#32;ChannelIndex=_#34;1_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;60_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 2
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;488A_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;488A_#34;_#32;ChannelIndex=_#34;2_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;3_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;0_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 3
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;488B_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;488B_#34;_#32;ChannelIndex=_#34;3_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;3_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 4
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;561A_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;561A_#34;_#32;ChannelIndex=_#34;4_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;5_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;0_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 5
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;561B_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;561B_#34;_#32;ChannelIndex=_#34;5_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;5_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 6
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;640A_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;640A_#34;_#32;ChannelIndex=_#34;6_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;6_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;0_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 7
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 15
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;Optical_#32;Configuration_#58;_#32;640B_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;Optical_Metadata_#62;_#60;Filter_#32;FilterName=_#34;640B_#34;_#32;ChannelIndex=_#34;7_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;OpticalMetadata_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;ExcitationFilterWheel_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;0_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#32;(direct)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;FilterTurret_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;1_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#32;(Filter_#32;Turret)_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;OcularPhotoPrism_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;11_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;Zeiss_#32;AxioObserver_#34;_#32;DeviceHardwarePosition=_#34;-1_#34;/_#62;_#60;AlternateSource_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;13_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;6_#34;/_#62;_#60;LaserPowerControl_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;25_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;NeutralDensity_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;14_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;CoolLED_#32;precisExcite_#34;_#32;DeviceHardwarePosition=_#34;100_#34;/_#62;_#60;AuxiliaryFilterwheel1_#32;ElementType=_#34;OpticalComponentAttribute_#34;_#32;ElementTypeVersion=_#34;1.1_#34;_#32;DeviceType=_#34;17_#34;_#32;DeviceModelID=_#34;-1_#34;_#32;DeviceModelIDName=_#34;_#34;_#32;DeviceDescription=_#34;_#34;_#32;DeviceName=_#34;unknown_#34;_#32;DeviceSerialString=_#34;_#34;_#32;DeviceModelName=_#34;3i_#32;LaserStack_#32;Fiber_#32;Switcher_#34;_#32;DeviceHardwarePosition=_#34;1_#34;/_#62;_#60;/Optical_Metadata_#62;_#10;
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 0
+  mColumns: 0
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 0
+  mRows: 0
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 23
+  mTimeBasis: 0
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 1
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theXMLDescriptor: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;AuxiliaryDataDescription_#62;_#60;AuxDataDescription_#32;Description=_#34;MarianasLightSheetMetadata_#34;/_#62;_#60;StructureInformation_#32;StructureType=_#34;AuxDataDescription_#34;_#32;StructureVersion=_#34;1_#34;/_#62;_#60;/AuxiliaryDataDescription_#62;_#10;
+theXmlAuxDataSize: 1
+theXmlAuxData: _#60;?xml_#32;version=_#34;1.0_#34;_#32;encoding=_#34;UTF-8_#34;_#32;standalone=_#34;no_#34;?_#62;_#10;_#60;MarianasLightSheetMetadata_#62;_#60;StructureInformation_#32;StructureType=_#34;MarianasLightSheetMetadata_#34;_#32;StructureVersion=_#34;1.0_#34;/_#62;_#60;CaptureParameters_#32;Capture_mode=_#34;Stage_scan_#34;_#32;Stage_scan_x_travel_um=_#34;1.800_#34;_#32;Stage_scan_x0_um=_#34;-3836.700_#34;_#32;Stage_scan_x1_um=_#34;-3838.500_#34;_#32;Stage_scan_y_um=_#34;5970.700_#34;_#32;Stack_size_planes=_#34;5_#34;_#32;Step_size_um=_#34;0.44_#34;_#32;Num_channels=_#34;8_#34;_#32;Camera_readout_duration_ms=_#34;5.09_#34;_#32;Num_sides=_#34;2_#34;_#32;All_channels_per_pz=_#34;False_#34;_#32;First_side=_#34;Side_A_#34;_#32;Channel_1_name=_#34;405A_#34;_#32;Channel_exposure_1_ms=_#34;100_#34;_#32;Channel_2_name=_#34;405B_#34;_#32;Channel_exposure_2_ms=_#34;100_#34;_#32;Channel_3_name=_#34;488A_#34;_#32;Channel_exposure_3_ms=_#34;100_#34;_#32;Channel_4_name=_#34;488B_#34;_#32;Channel_exposure_4_ms=_#34;100_#34;_#32;Channel_5_name=_#34;561A_#34;_#32;Channel_exposure_5_ms=_#34;100_#34;_#32;Channel_6_name=_#34;561B_#34;_#32;Channel_exposure_6_ms=_#34;100_#34;_#32;Channel_7_name=_#34;640A_#34;_#32;Channel_exposure_7_ms=_#34;100_#34;_#32;Channel_8_name=_#34;640B_#34;_#32;Channel_exposure_8_ms=_#34;100_#34;_#32;Enable_power_balance=_#34;True_#34;_#32;Channel_1-2_power=_#34;100_#34;_#32;Channel_1-2_power_balance_enable=_#34;False_#34;_#32;Channel_1-2_power_balance_factor=_#34;60_#34;_#32;Channel_3-4_power=_#34;100_#34;_#32;Channel_3-4_power_balance_enable=_#34;True_#34;_#32;Channel_3-4_power_balance_factor=_#34;100_#34;_#32;Channel_5-6_power=_#34;100_#34;_#32;Channel_5-6_power_balance_enable=_#34;False_#34;_#32;Channel_5-6_power_balance_factor=_#34;100_#34;_#32;Channel_7-8_power=_#34;100_#34;_#32;Channel_7-8_power_balance_enable=_#34;True_#34;_#32;Channel_7-8_power_balance_factor=_#34;100_#34;_#32;Region_size=_#34;1024_#34;_#32;Bin_factor=_#34;1_#34;_#32;Time_points=_#34;1_#34;_#32;Interval_ms=_#34;0_#34;_#32;Interval_ms=_#34;0_#34;_#32;Is_montage=_#34;True_#34;/_#62;_#60;TIGER_#32;ScanDelay=_#34;4.586556_#34;_#32;ScanPeriod=_#34;4.086556_#34;_#32;SideAOffset=_#34;0.000_#34;_#32;SideAWidth=_#34;4.000_#34;_#32;SideBOffset=_#34;0.000_#34;_#32;SideBWidth=_#34;4.000_#34;_#32;IrisAEnabled=_#34;False_#34;_#32;IrisBEnabled=_#34;False_#34;_#32;CommandLog=_#34;3_#32;SN_#32;X?_#34;/_#62;_#60;/MarianasLightSheetMetadata_#62;_#10;
+...

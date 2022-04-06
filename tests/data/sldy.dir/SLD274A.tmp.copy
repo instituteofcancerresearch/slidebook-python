@@ -1,0 +1,25 @@
+---
+StartClass:
+  ClassName: CSlideRecord70
+  mByteOrdering: 18761
+  mCaptureStatus: 0
+  mCheckpointImagePtr: 0
+  mCheckpointMaxImages: 0
+  mCheckpointNumImages: 0
+  mDemoFlag: 0
+  mHardwareFileLen: 0
+  mHighestCount: 0
+  mNotesLen: 0
+  mNumImages: 0
+  mProjectFolder: __empty
+  mStructID: 108
+  mStructLen: 256
+  mStructVersion: 701
+  mUncompactedSpace: 0
+  mFileVersion: [
+4,2021,0,0,39154
+ ]
+  mName: __empty
+  mSpecialBuildStr: RC
+EndClass: CSlideRecord70
+...

@@ -1,0 +1,30 @@
+---
+StartClass:
+  ClassName: CDataTableHeaderRecord70
+  mByteOrdering: 18761
+  mChannelIndex: 0
+  mColumns: 1
+  mDescriptorFileOffset: 0
+  mDescriptorSize: 0
+  mDescriptorVersion: 0
+  mNextTableFileOffset: 0
+  mParentRecordPtr: 0
+  mPlanes: 1
+  mRows: 1
+  mStartTime: 0
+  mStructID: 125
+  mStructLen: 344
+  mStructVersion: 257
+  mTableType: 7
+  mTimeBasis: 6
+  mTimeInterval: 0
+  mTimePointsTableSize: 1
+  mTimePointsWritten: 0
+  mValueType: 10
+EndClass: CDataTableHeaderRecord70
+theTimepointIndex: 0
+theCubeAnnotation70ListSize: 0
+theAnnotation70ListSize: 0
+theFRAPRegionAnnotation70ListSize: 0
+theUnknownAnnotation70ListSize: 0
+...
